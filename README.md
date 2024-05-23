@@ -19,7 +19,7 @@ Libraries can be copied to the `lib` folder within the directory.
 - [eez-framework](https://github.com/eez-open/eez-framework) - Version 0.0.1
 - [GT911](https://github.com/tamctec/gt911-arduino) - Version 1.0.2
 - [LVGL](https://github.com/lvgl/lvgl) - Version 9.1.0
-  - This repository includes `lv_conf.h" with options for this project selected. This file belongs NEXT to the lvgl library directory.
+  - This repository includes `lv_conf.h` with options for this project selected. This file belongs NEXT to the lvgl library directory.
     As the user interface is expanded, additonal fonts will need to be included from this file by changing the value adjacent to the font from `0` to `1`.
 
 The user interface is built with [EEZ Studio](https://www.envox.eu/studio/studio-introduction/)
