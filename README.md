@@ -35,3 +35,6 @@ The user interface is built with [EEZ Studio](https://www.envox.eu/studio/studio
   #define LV_LVGL_H_INCLUDE_SIMPLE
   #endif // LV_LVGL_H_INCLUDE_SIMPLE`
 ```
+
+![screen 1](https://github.com/clumsyCoder00/Sunton-ESP32-8048S043/assets/11773579/51a79c37-31eb-4dd4-bff7-73c6bef10888)
+![screen 2](https://github.com/clumsyCoder00/Sunton-ESP32-8048S043/assets/11773579/0fb9f67a-e7a8-4aa3-98e0-7fe228489582)
